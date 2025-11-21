@@ -1,0 +1,39 @@
+[
+    {
+        "id": "2b10a2d9",
+        "client": "Maria Clara Redin Benitez",
+        "address": "Rua Antonieta Santos, 122",
+        "items": [
+            "Pizza Frango com Catupiry",
+            "Coca-Cola Lata",
+            "Brownie com Sorvete (Embalagem Presente)"
+        ],
+        "status": "ENTREGUE",
+        "total": 83.0,
+        "timestamp": "2025-11-18 21:25:16"
+    },
+    {
+        "id": "fb141fb6",
+        "client": "Paulo Henrique Correa",
+        "address": "Rua Carlos Genebra Professor, 724",
+        "items": [
+            "X-Burger da Casa",
+            "X-Salada",
+            "Suco de Laranja"
+        ],
+        "status": "ENTREGUE",
+        "total": 48.5,
+        "timestamp": "2025-11-18 21:56:24"
+    },
+    {
+        "id": "be09a2fe",
+        "client": "Luis Carlos de Souza",
+        "address": "Rua Antiga 13, 123",
+        "items": [
+            "X-Tudo + Bacon Extra (Embalagem Presente)"
+        ],
+        "status": "ENTREGUE",
+        "total": 45.0,
+        "timestamp": "2025-11-21 12:27:49"
+    }
+]
